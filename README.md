@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manthan Khamkar</h1>
+<h1 align="center">Hi 👋, I'm Manthan </h1> 
 <h3 align="center">Passionate Full Stack Developer | Data Science | Machine Learning |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthankk&label=Profile%20views&color=0e75b6&style=flat" alt="manthankk" /> </p>
